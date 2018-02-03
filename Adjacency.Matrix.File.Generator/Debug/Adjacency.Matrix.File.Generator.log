@@ -1,0 +1,5 @@
+﻿  Main.c
+c:\users\matan\documents\visual studio 2015\projects\adjacency.matrix.file.generator\adjacency.matrix.file.generator\main.c(12): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\matan\documents\visual studio 2015\projects\adjacency.matrix.file.generator\adjacency.matrix.file.generator\main.c(23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Adjacency.Matrix.File.Generator.vcxproj -> C:\Users\Matan\Documents\Visual Studio 2015\Projects\Adjacency.Matrix.File.Generator\Debug\Adjacency.Matrix.File.Generator.exe
+  Adjacency.Matrix.File.Generator.vcxproj -> C:\Users\Matan\Documents\Visual Studio 2015\Projects\Adjacency.Matrix.File.Generator\Debug\Adjacency.Matrix.File.Generator.pdb (Full PDB)
